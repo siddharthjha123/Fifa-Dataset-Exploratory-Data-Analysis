@@ -4,7 +4,7 @@
 ## 📚 Project Overview
 This project is a comprehensive Exploratory Data Analysis (EDA) of FIFA World Cup data using three datasets:
 
-matches.csv
+- matches.csv
 
 world_cup.csv
 
