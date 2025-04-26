@@ -6,68 +6,68 @@ This project is a comprehensive Exploratory Data Analysis (EDA) of FIFA World Cu
 
 - matches.csv
 
-world_cup.csv
+- world_cup.csv
 
-world_rankings.csv
+- world_rankings.csv
 
 The aim of the analysis is to understand patterns, trends, team performances, and interesting historical facts from the FIFA World Cups held between 1930 and 2022.
 
 ## 🗂️ Datasets Description
-matches.csv
+**matches.csv**
 
-Contains detailed information about every FIFA World Cup match from 1930 to 2022.
+- Contains detailed information about every FIFA World Cup match from 1930 to 2022.
 
-Columns include: participating teams, match results, stage (group stage, final, etc.), goals scored, and more.
+- Columns include: participating teams, match results, stage (group stage, final, etc.), goals scored, and more.
 
-world_cup.csv
+**world_cup.csv**
 
-Provides a summary of each FIFA World Cup tournament.
+- Provides a summary of each FIFA World Cup tournament.
 
-Columns include: year, host country, champions, runner-up, number of matches, goals scored, and attendance figures.
+- Columns include: year, host country, champions, runner-up, number of matches, goals scored, and attendance figures.
 
-world_rankings.csv
+**world_rankings.csv**
 
-Displays the FIFA rankings of national teams.
+- Displays the FIFA rankings of national teams.
 
-Columns include: team name, current rank, previous rank, total points, and rank change over time.
+- Columns include: team name, current rank, previous rank, total points, and rank change over time.
 
 ## 🔍 EDA Highlights
-Participation Analysis
+**Participation Analysis**
 Created a heatmap showing which teams participated in each World Cup year.
 Observations include:
 
-Consistent qualifiers like Brazil, Germany, Argentina, France, and Italy.
+- Consistent qualifiers like Brazil, Germany, Argentina, France, and Italy.
 
-Political changes reflected in team names (e.g., West Germany, East Germany, Germany after reunification).
+- Political changes reflected in team names (e.g., West Germany, East Germany, Germany after reunification).
 
-Newer teams appearing in recent years (e.g., Qatar, Iceland, Bosnia).
+- Newer teams appearing in recent years (e.g., Qatar, Iceland, Bosnia).
 
-Historical Evolution
+**Historical Evolution**
 
-Studied how political transitions (e.g., Yugoslavia, Soviet Union) affected team representation.
+- Studied how political transitions (e.g., Yugoslavia, Soviet Union) affected team representation.
 
-Noticed name changes and country splits over decades.
+- Noticed name changes and country splits over decades.
 
-Performance Trends
+**Performance Trends**
 
-Analyzed champions and runner-up patterns across decades.
+- Analyzed champions and runner-up patterns across decades.
 
-Noted gaps where even strong teams missed qualification (e.g., Italy 2018, France 1994).
+- Noted gaps where even strong teams missed qualification (e.g., Italy 2018, France 1994).
 
-Ranking Analysis
+**Ranking Analysis**
 
-Compared team performances with their FIFA rankings.
+- Compared team performances with their FIFA rankings.
 
-Observed ranking changes and trends among top-performing countries.
+- Observed ranking changes and trends among top-performing countries.
 
 ## 📈 Tools and Libraries Used
-Python
+- Python
 
-Pandas
+- Pandas
 
-Matplotlib
+- Matplotlib
 
-Seaborn
+- Seaborn
 
 ## 📝 Key Takeaways
 Some teams have dominated historically, while others have risen recently.
